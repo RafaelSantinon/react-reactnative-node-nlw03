@@ -8,8 +8,8 @@
 </h1>
 
 <h1 align="center">
-  <img style="width:30%" alt="Happy" title="Happy" src="./images/happy-form.jpeg" />
-  <img style="width:30%" alt="Happy" title="Happy" src="./images/happy-mobile.jpeg" />
+  <img height="300" alt="Happy" title="Happy" src="./images/happy-form.jpeg" />
+  <img height="300" alt="Happy" title="Happy" src="./images/happy-mobile.jpeg" />
 </h1>
 
 <p align="center">Aplicação para cadastro de orfanatos, informando como realizar uma visitação de</p>
